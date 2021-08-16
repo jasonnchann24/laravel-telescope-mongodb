@@ -1,7 +1,11 @@
 {
-    "name": "laravel/telescope",
+    "name": "jasonnchann24/laravel-telescope-mongodb",
     "description": "An elegant debug assistant for the Laravel framework.",
-    "keywords": ["laravel", "monitoring", "debugging"],
+    "keywords": [
+        "laravel",
+        "monitoring",
+        "debugging"
+    ],
     "license": "MIT",
     "authors": [
         {
